@@ -15,9 +15,6 @@ namespace MyMapApp
     /// </summary>
     public partial class MainWindow : Window
     {
-        //マップが操作可能であるかどうかを示す変数
-        private bool isMapReady;        
-
         /// <summary>
         /// コンストラクタ
         /// </summary>
@@ -33,9 +30,6 @@ namespace MyMapApp
         {
             //マップ内のすべてのレイヤが読み込まれるまで待機
             await mainMapView.LayersLoadedAsync();
-
-            //マップ操作が可能な状態に変更
-            isMapReady = true;
         }
     }
 }
