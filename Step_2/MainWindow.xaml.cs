@@ -1,12 +1,4 @@
-﻿using Esri.ArcGISRuntime.Geometry;
-using Esri.ArcGISRuntime.Layers;
-using Esri.ArcGISRuntime.Tasks.Geocoding;
-using Esri.ArcGISRuntime.Tasks.Query;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading;
-using System.Windows;
+﻿using System.Windows;
 
 namespace MyMapApp
 {
