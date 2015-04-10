@@ -23,7 +23,7 @@ ArcGIS Runtime SDK for .NET をはじめて使用される方に、開発キッ�
 * [ArcGIS Runtime SDK for .NET](https://developers.arcgis.com/net/)
 * [ArcGIS for Developers](https://developers.arcgis.com/en/)
 
-**ArcGIS の開発キットを使用して開発を行う場合は ArcGIS Online 開発者アカウント（[ArcGIS for Developers](https://developers.arcgis.com/en/)）が必要です。開発者アカウント作成ガイドは[こちら](http://www.esrij.com/cgi-bin/wp/wp-content/uploads/documents/signup-esri-developers.pdf)**
+**ArcGIS の開発キットを使用して開発を行う場合は ArcGIS Online 開発者アカウント（[ArcGIS for Developers](https://developers.arcgis.com/en/)）が必要です。開発者アカウントは無償で作成することができます。作成方法は[こちら](http://www.esrij.com/cgi-bin/wp/wp-content/uploads/documents/signup-esri-developers.pdf)**
 
 ## 動作環境
 ###OS
