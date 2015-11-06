@@ -382,7 +382,7 @@ namespace MyMapApp
             SpatialQueryFilter spatialQueryFilter = new SpatialQueryFilter()
             {
                 Geometry = g.Geometry,
-                SpatialRelationship = SpatialRelationship.Intersects,
+                SpatialRelationship = SpatialRelationship.Within,
             };
 
             try
