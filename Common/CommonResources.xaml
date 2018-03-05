@@ -1,6 +1,0 @@
-﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:system="clr-namespace:System;assembly=mscorlib">
-    <!--物件レイヤサービスのURL（Step 4 で作成したサービスのURLを指定します）-->
-    <system:String x:Key="BuildingLayerURL">Step 4 で作成したサービスのURL</system:String>
-</ResourceDictionary>
