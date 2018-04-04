@@ -2,7 +2,7 @@
 
 ![.NET SDK サンプルアプリケーション](_readme_images/thumbnail.png)
 
-ArcGIS Runtime SDK for .NET をはじめて使用される方に、開発キットの基本的な使い方や主要な機能を紹介するためのサンプル アプリケーションです。ソースコードの内容は ArcGIS 開発者コミュニティの連載記事：[.NET SDK アプリケーション構築](https://geonet.esri.com/docs/DOC-4196)で解説しています。
+ArcGIS Runtime SDK for .NET バージョン 10.2.x をはじめて使用される方に、開発キットの基本的な使い方や主要な機能を紹介するためのサンプル アプリケーションです。
 
 ## サンプルで実装される機能
 
