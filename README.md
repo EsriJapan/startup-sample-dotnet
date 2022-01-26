@@ -7,29 +7,26 @@ ArcGIS Runtime SDK for .NET をはじめて使用される方に、開発キッ�
 
 ## 使用している製品
 
-* [ArcGIS Runtime SDK for .NET](https://developers.arcgis.com/net/)
-* [ArcGIS Pro](https://pro.arcgis.com/ja/pro-app/)
+* [ArcGIS Runtime SDK for .NET](https://www.esrij.com/products/arcgis-runtime-sdk-for-dotnet/)
+* [ArcGIS Pro](https://www.esrij.com/products/arcgis-desktop/)
 
-**ArcGIS の開発キットを使用して開発を行う場合は [ArcGIS for Developers](https://developers.arcgis.com/en/) 開発者アカウントが必要です。開発者アカウントは無償で作成することができます。作成方法は [ArcGIS for Developers 開発リソース集](http://esrijapan.github.io/arcgis-dev-resources/get-dev-account/)を参考にしてください。**
+**ArcGIS の開発キットを使用して開発を行う場合は ArcGIS 開発者アカウントが必要です。開発者アカウントは無償で作成することができます。作成方法は [ArcGIS Developer 開発リソース集](https://esrijapan.github.io/arcgis-dev-resources/guide/get-dev-account/)を参考にしてください。**
 
 ## 動作環境
 ### OS
-* Windows 10 / 8.1 / 7
+* Windows 11 / 10 / 8.1
 
 ### 開発環境
-* Visual Studio 2017
-* Visual Studio 2015 Update 3
-* Visual Studio Express 2015 for Windows Desktop Update 3
-* Visual Studio 2013 Update 5
-* Visual Studio Express 2013 for Windows Desktop Update 5
-* Visual Studio 2012 Update 4
-* Visual Studio Express 2012 for Windows Desktop Update 4
+* Visual Studio 2022 17.0 以降 ([.NETデスクトップ開発] ワークロード のインストール)
+* Visual Studio 2019 16.7 以降 ([.NETデスクトップ開発] ワークロード のインストール)
+* Visual Studio 2017 15.9 以降 ([.NETデスクトップ開発] ワークロード のインストール)
+* Visual Studio 2015 Update 3 以降
 
 ## リソース
 
 * [ArcGIS Runtime SDK for .NET (ESRIジャパン)](https://www.esrij.com/products/arcgis-runtime-sdk-for-dotnet/)
 * [ArcGIS Runtime SDK for .NET (Esri)](https://developers.arcgis.com/net/latest/)
-* [GeoNet 開発者コミュニティ サイト](https://community.esri.com/groups/devcom-jp)
+* [ArcGIS Developer 開発リソース集](https://esrijapan.github.io/arcgis-dev-resources/)
 
 
 ## ライセンス

@@ -35,8 +35,6 @@ namespace mapApp
             MobileMapPackage myMapPackage = await MobileMapPackage.OpenAsync(@"..\..\..\..\SampleData\sample_maps.mmpk");
             // マップ ビューの持つ Map プロパティにモバイル マップ パッケージが持つマップを割り当てる
             MyMapView.Map = myMapPackage.Maps.First();
-            // 背景に ArcGIS Online の衛星画像サービスを表示する
-            MyMapView.Map.Basemap = Basemap.CreateImagery();
             // マップのレイヤーを取得してレイヤーの透過率を設定
             MyMapView.Map.OperationalLayers[0].Opacity = 0.5;
         }
