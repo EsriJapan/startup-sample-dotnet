@@ -57,7 +57,7 @@ namespace mapApp
         {
             // Web マップの ID を使用してマップを取得する
             ArcGISPortal portal = await ArcGISPortal.CreateAsync();
-            PortalItem mapItem = await PortalItem.CreateAsync(portal, "3bf36dae4cc545c8956a521fa9ada1eb");
+            PortalItem mapItem = await PortalItem.CreateAsync(portal, "3cbd757aede647869515251231a27e08");
 
             // MapView の Map プロパティに Web マップを割り当てる
             Map = new Map(mapItem);

@@ -8,7 +8,7 @@ ArcGIS Maps SDK for .NET をはじめて使用される方に、開発キット�
 ## 使用している製品
 
 * [ArcGIS Maps SDK for .NET](https://www.esrij.com/products/arcgis-maps-sdk-for-dotnet/)
-* [ArcGIS Platform](https://www.esrij.com/products/arcgis-platform/)
+* [ArcGIS Location Platform](https://www.esrij.com/products/arcgis-platform/)
 
 ArcGIS の開発キットを使用して開発を行う場合は ArcGIS 開発者アカウントが必要です。開発者アカウントは無償で作成することができます。作成方法は [ArcGIS Developers 開発リソース集](https://esrijapan.github.io/arcgis-dev-resources/guide/get-dev-account/)を参考にしてください。
 
